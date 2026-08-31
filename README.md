@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Mike! 👋
 
-<!--
-**Meet-Mike/Meet-Mike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer & Technical Support Specialist
+I build fast, scalable web applications and help businesses maintain reliable, high-performance production systems. Empathizing with user problems and translating them into robust technical solutions is my specialty.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | ![React](https://shields.io) ![Next.js](https://shields.io) ![JavaScript](https://shields.io) ![TypeScript](https://shields.io) ![TailwindCSS](https://shields.io) |
+| **Support & Ops** | ![Git](https://shields.io) ![GitHub](https://shields.io) ![Netlify](https://shields.io) ![Chrome DevTools](https://shields.io) |
+
+---
+
+### 🚀 What I'm working on
+- 💻 Optimizing web performance, web vitals, and accessibility lighthouse scores.
+- 🛠️ Resolving complex infrastructure pipelines and deployment issues.
+- 📦 Maintaining scalable frontend architectures with clean, modular code.
+
+---
+
+### 📫 Connect with Me
+
+[![Website](https://shields.io)](https://meetmike.com.ng)
+[![Email](https://shields.io)](mailto:info.meetmike@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://vercel.app" alt="Mike's GitHub Stats" width="48%" />
+  <img src="https://vercel.app" alt="Top Languages" width="48%" />
+</p>
