@@ -1,34 +1,51 @@
-# Hi, I'm Mike! 👋
+<div align="center">
 
-### Frontend Developer & Technical Support Specialist
-I build fast, scalable web applications and help businesses maintain reliable, high-performance production systems. Empathizing with user problems and translating them into robust technical solutions is my specialty.
+  <!-- Header Banner -->
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/wordmark-dark.svg" />
+      <img src="./assets/wordmark-light.svg" alt="MIKE" width="600" />
+    </picture>
+  </p>
 
----
+  <!-- Bio & Title -->
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/bio-dark.svg" />
+      <img src="./assets/bio-light.svg" alt="Frontend Developer & Technical Support Specialist" width="600" />
+    </picture>
+  </p>
 
-### 🛠️ Tech Stack & Tools
+  <br />
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | ![React](https://shields.io) ![Next.js](https://shields.io) ![JavaScript](https://shields.io) ![TypeScript](https://shields.io) ![TailwindCSS](https://shields.io) |
-| **Support & Ops** | ![Git](https://shields.io) ![GitHub](https://shields.io) ![Netlify](https://shields.io) ![Chrome DevTools](https://shields.io) |
+  <!-- Tech Stack Card -->
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/techstack-dark.svg" />
+      <img src="./assets/techstack-light.svg" alt="Tech Stack & Tools" width="600" />
+    </picture>
+  </p>
 
----
+  <br />
 
-### 🚀 What I'm working on
-- 💻 Optimizing web performance, web vitals, and accessibility lighthouse scores.
-- 🛠️ Resolving complex infrastructure pipelines and deployment issues.
-- 📦 Maintaining scalable frontend architectures with clean, modular code.
+  <!-- Focus / Current Work Card -->
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/focus-dark.svg" />
+      <img src="./assets/focus-light.svg" alt="What I'm working on" width="600" />
+    </picture>
+  </p>
 
----
+  <br />
 
-### 📫 Connect with Me
+  <!-- Connect Link -->
+  <p align="center">
+    <a href="https://www.meetmike.com.ng" target="_blank">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/connect-dark.svg" />
+        <img src="./assets/connect-light.svg" alt="Visit Website" width="200" />
+      </picture>
+    </a>
+  </p>
 
-[![Website](https://shields.io)](https://meetmike.com.ng)
-[![Email](https://shields.io)](mailto:info.meetmike@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://vercel.app" alt="Mike's GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</p>
+</div>
